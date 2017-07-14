@@ -1,0 +1,5 @@
+让Python打印出指定的文字，可以用print()函数，然后把希望打印的文字用单引号或者双引号括起来，但不能混用单引号和双引号
+用exit()退出Python
+运行文件以 .py 结尾
+输出与输入input与 output 统称为IO  ； print （）    input（）
+
